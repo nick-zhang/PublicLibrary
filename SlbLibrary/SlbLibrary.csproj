@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Display.cs" />
     <Compile Include="Library.cs" />
     <Compile Include="SlbLibrssaryApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
